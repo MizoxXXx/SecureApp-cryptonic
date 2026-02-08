@@ -503,11 +503,11 @@ $auth->requireAuth();
 
 ### Admin Dashboard
 
-<video controls src="releases/dashboard.mp4" title="Admin dashboard"></video>
+<video controls src="SecureApp-cryptonic/releases/dashboard.mp4" title="Admin dashboard"></video>
 
 ### Add Violation (Police Officer)
 
-<video controls src="releases/add_violation.mp4" title="Adding violations " auto ></video>
+<video controls src="SecureApp-cryptonic/releases/add_violation.mp4" title="Adding violations " auto ></video>
 
 *Click to watch: Creating violations, form validation, and confirmation*
 
@@ -515,5 +515,6 @@ $auth->requireAuth();
 > 
 
 ## 📞 Support
+
 
 For support, email [cyberexplorer27710@gmail.com](mailto:your-email@example.com) or open an issue in this repository.
