@@ -506,8 +506,7 @@ $auth->requireAuth();
 https://github.com/user-attachments/assets/6986ce1a-9e6c-46c0-872e-e982d9afebc4
 ### Add Violation (Police Officer)
 
-https://github.com/user-attachments/assets/88a7fa12-f1e5-4ecf-b602-15ecf9e353ac
-*Click to watch: Creating violations, form validation, and confirmation*
+https://github.com/user-attachments/assets/dc490c6c-9489-4f69-9a28-50689a887246
 
 > **Note**: check the screenshots directory to view some images about viewing data in pgAdmin 4 pannel .
 > 
@@ -516,4 +515,5 @@ https://github.com/user-attachments/assets/88a7fa12-f1e5-4ecf-b602-15ecf9e353ac
 
 
 For support, email [cyberexplorer27710@gmail.com](mailto:your-email@example.com) or open an issue in this repository.
+
 
