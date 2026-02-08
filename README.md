@@ -503,12 +503,10 @@ $auth->requireAuth();
 
 ### Admin Dashboard
 
-<video controls src="SecureApp-cryptonic/releases/dashboard.mp4" title="Admin dashboard"></video>
-
+https://github.com/user-attachments/assets/6986ce1a-9e6c-46c0-872e-e982d9afebc4
 ### Add Violation (Police Officer)
 
-<video controls src="SecureApp-cryptonic/releases/add_violation.mp4" title="Adding violations " auto ></video>
-
+https://github.com/user-attachments/assets/88a7fa12-f1e5-4ecf-b602-15ecf9e353ac
 *Click to watch: Creating violations, form validation, and confirmation*
 
 > **Note**: check the screenshots directory to view some images about viewing data in pgAdmin 4 pannel .
@@ -518,3 +516,4 @@ $auth->requireAuth();
 
 
 For support, email [cyberexplorer27710@gmail.com](mailto:your-email@example.com) or open an issue in this repository.
+
